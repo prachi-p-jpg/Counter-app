@@ -1,5 +1,5 @@
 #Counter App
-A simple counter application built using HTML,CSS,and JavaScript.
+A simple  counter  application  built  using  HTML ,CSS ,and  JavaScript.
 you can increase,decrease,or reset the count-and the color +sound changes on every click!
 
 ---
